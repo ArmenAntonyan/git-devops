@@ -1,0 +1,4 @@
+#!/bin/bash
+
+age=19
+name echo "hello"
