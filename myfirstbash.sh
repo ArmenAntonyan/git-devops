@@ -1,5 +1,5 @@
 #!/bin/bash
-AGE=16
+iiiAGE=16
 echo "What iz yor name:"
 read -p name
 echo "how ols are you?"
