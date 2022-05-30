@@ -11,4 +11,8 @@ echo "sa avelacreci"
 
 echo "djvar stacvi"
 
+<<<<<<< HEAD
 merge
+=======
+commit
+>>>>>>> test_branch2
