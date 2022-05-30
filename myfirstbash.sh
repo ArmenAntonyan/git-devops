@@ -10,3 +10,5 @@ echo "yore name is and you are $AGE years old."
 echo "sa avelacreci"
 
 echo "djvar stacvi"
+
+merge
